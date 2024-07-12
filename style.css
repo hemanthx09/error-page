@@ -1,0 +1,53 @@
+header {
+    font-size: 21px;
+    height: 100px;
+    padding-left: 53px;
+    padding-top: 26px;
+    font-family: "Inconsolata", monospace;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+div {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+main {
+    font-family: "Space Mono", monospace;
+    height: 450px;
+}
+h2 {
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-bottom: 30px;
+    line-height:2;
+}
+p {
+    line-height: 2;
+    font-weight: revert-layer;
+    color: #333333;
+    
+    
+}
+img {
+    float: right;
+    margin-right: 59px;
+    background-color: yellowgreen;
+}
+button {
+    margin-top: 36px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #333333;
+    color: floralwhite;
+    border: none;
+    text-transform: uppercase;
+    padding: 15px;
+}
+footer {
+    font-family: "Space Mono", monospace;
+   font-size:large;
+    text-align: center;
+    color: gray;
+    margin-left: 40px;
+}
